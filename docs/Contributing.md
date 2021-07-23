@@ -91,7 +91,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 如果您的使用目的是仅浏览相关教程和文档，您可以直接**使用网页**浏览。
 
-1. 本社区文档中，尤其是[基础教程](./基础教程)模块，有大量的公式。为了方便查看公式，可以使用Chrome浏览器，安装[Math展示控件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)。如有其他好的控件，欢迎通过[issues](https://github.com/microsoft/ai-edu/issues)模块反馈给我们。
+1. 本社区文档中，尤其是[基础教程](../基础教程)模块，有大量的公式。为了方便查看公式，可以使用Chrome浏览器，安装[Math展示控件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)。如有其他好的控件，欢迎通过[issues](https://github.com/microsoft/ai-edu/issues)模块反馈给我们。
 2. 如需更好的文档阅读体验，可以clone该仓库，使用VSCode浏览，并安装**Markdown All in One**插件。
 
 ## 运行样例程序
